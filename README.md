@@ -1,2 +1,8 @@
-## Trabalho sobre Softwares ##
-Slide e texto sobre word
+EDITOR DE TEXTO "WORD"
+
+Objetivos:
+
+Edição de texto.
+Formatação de texto.
+Salvar e carregar arquivos.
+
